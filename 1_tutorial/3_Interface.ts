@@ -50,6 +50,7 @@ let obj1:stringRegaxDictionary = {
 
 
 //interface Expansion
+//Type can not be expanded
 interface Person {
   name:string,
   age:number
